@@ -1,0 +1,3 @@
+Task - 6
+Yes string is mutable in c++ becasue as we can see from the printed addresses(which are same before and after), it makes changes in the same string rather than creating new one.
+
