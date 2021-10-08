@@ -1,0 +1,3 @@
+Task 4
+It is impossible to store a whole string in a characater variable. A character variable can hold only 1 byte but the string can be of
+more than 1 byte. So instead of using a character variable use a string data type to store strings.

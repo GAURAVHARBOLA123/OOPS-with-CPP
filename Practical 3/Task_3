@@ -1,0 +1,3 @@
+Task 3
+We can see that we are encountering data loss when we are inputting a string in a character variable. This is because character variable
+is capable of holding only 1 character. Hence we got first letter of the string.
